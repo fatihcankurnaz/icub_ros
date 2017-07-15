@@ -1,0 +1,2 @@
+kovan
+-DCATKIN_DEVEL_PREFIX=/home/fatih/kovan_test2/devel -DCMAKE_INSTALL_PREFIX=/home/fatih/kovan_test2/install -G Unix Makefiles

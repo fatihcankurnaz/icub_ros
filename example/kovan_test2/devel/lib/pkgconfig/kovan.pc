@@ -1,0 +1,8 @@
+prefix=/home/fatih/kovan_test2/devel
+
+Name: kovan
+Description: Description of kovan
+Version: 0.0.0
+Cflags: -I/home/fatih/kovan_test2/devel/include
+Libs: -L/home/fatih/kovan_test2/devel/lib 
+Requires: message_runtime
