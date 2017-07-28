@@ -30,7 +30,7 @@ int main(int argc,char** argv) {
     ros::NodeHandle nh;
     detect.resize(640);
     if(argc < 3) {
-        ROS_FATAL_STREAM("need at lest 2 arguments");
+        ROS_FATAL_STREAM("need at least 2 arguments");
         return 0;
     }
 
